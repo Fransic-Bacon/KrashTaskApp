@@ -1,0 +1,3 @@
+FransicApp.MainActivity, FransicApp;crc64aac8b3d078a9c43a.MainActivity
+FransicApp.MainActivity;crc64aac8b3d078a9c43a.MainActivity
+fransicapp.MainActivity;crc64aac8b3d078a9c43a.MainActivity
